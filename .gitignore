@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+
+# Docker
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
